@@ -28,7 +28,7 @@ rm -r fileTemplates/
 rm -r inspection/
 
 git init
-git remote add origin git@github.com:nicwortel/phpstorm-ide-config.git
+git remote add origin git@github.com:phpfour/phpstorm-ide-config.git
 git fetch
 git checkout -t origin/master
 ```
